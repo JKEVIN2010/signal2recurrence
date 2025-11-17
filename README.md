@@ -193,15 +193,20 @@ The original implementation achieved:
 ## 📚 Citation
 
 If you use this methodology in your research, please cite:
-
 ```bibtex
-@article{mekulusignal2recurrence,
-  title={Character-Level Linguistic Biomarkers with Deep Metric Learning for Dementia Detection},
-  author={Kevin Mekulu},
-  journal={Your Journal},
-  year={2025}
+@article{mekulu2025character,
+  title={Character-Level Linguistic Biomarkers for Precision Assessment of Cognitive Decline: A Symbolic Recurrence Approach},
+  author={Mekulu, Kevin and Aqlan, Faisal and Yang, Hui},
+  journal={medRxiv},
+  year={2025},
+  doi={10.1101/2025.06.12.25329529},
+  note={Preprint}
 }
 ```
+
+**Paper:** [Character-Level Linguistic Biomarkers for Precision Assessment of Cognitive Decline: A Symbolic Recurrence Approach](https://doi.org/10.1101/2025.06.12.25329529)
+
+**Published:** June 13, 2025 (medRxiv preprint)
 
 ## 🤝 Contributing
 
