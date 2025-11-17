@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Kevin - jkevin2010.kj@gmail.com
 
-Project Link: [https://github.com/yourusername/signal2recurrence](https://github.com/jkevin2010/signal2recurrence)
+Project Link: [https://github.com/jkevin2010/signal2recurrence](https://github.com/jkevin2010/signal2recurrence)
 
 ---
 
