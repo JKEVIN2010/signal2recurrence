@@ -6,8 +6,8 @@ transformation and deep metric learning.
 """
 
 __version__ = "0.1.0"
-__author__ = "Kevin [Your Last Name]"
-__email__ = "your.email@psu.edu"
+__author__ = "Kevin Mekulu"
+__email__ = "kxm5924@psu.edu"
 
 from .pipeline import SignalPipeline
 from .preprocessing import SignalPreprocessor
