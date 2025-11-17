@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 
-A generalizable deep learning pipeline for analyzing sequential signals through recurrence plot transformation and metric learning. Originally developed for character-level linguistic biomarkers in dementia detection (95.9% AUC), this methodology can be applied to any sequential signal data.
+A generalizable deep learning pipeline for analyzing sequential signals through recurrence quantification analysis (RQA) and metric learning. Originally developed for character-level linguistic biomarkers in dementia detection (95.9% AUC), this methodology can be applied to any sequential signal data.
 
 ## 📖 Overview
 
