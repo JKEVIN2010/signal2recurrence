@@ -195,11 +195,11 @@ The original implementation achieved:
 If you use this methodology in your research, please cite:
 
 ```bibtex
-@article{yourlastname2024signal2recurrence,
+@article{mekulusignal2recurrence,
   title={Character-Level Linguistic Biomarkers with Deep Metric Learning for Dementia Detection},
-  author={Your Name},
+  author={Kevin Mekulu},
   journal={Your Journal},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -225,9 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Kevin - [@DementiAnalytics](https://twitter.com/yourhandle)
+Kevin - jkevin2010.kj@gmail.com
 
-Project Link: [https://github.com/yourusername/signal2recurrence](https://github.com/yourusername/signal2recurrence)
+Project Link: [https://github.com/yourusername/signal2recurrence](https://github.com/jkevin2010/signal2recurrence)
 
 ---
 
